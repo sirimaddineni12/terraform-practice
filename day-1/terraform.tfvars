@@ -1,0 +1,5 @@
+ami = "ami-0973769d2c4406635"
+key = "mykp"
+type = "t2.micro"
+subnet = "subnet-0ab52f1bd83ec2a97"
+az = "ap-south-1b"
